@@ -1,7 +1,7 @@
 #include "stdafx.h"
 #include "polynom.h"
-#include "field.h"
 #include "shuffle.h"
+#include "field.h"
 
 
 int main()
